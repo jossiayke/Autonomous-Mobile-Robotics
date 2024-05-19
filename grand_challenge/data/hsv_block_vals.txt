@@ -1,0 +1,15 @@
+# HSV Masks for Green Blue and Red
+
+# Green in Lab
+
+# Trail Green Bock - LAB
+minHSV = np.array([46,88,121])
+maxHSV = np.array([65,141,255])
+
+# Trail Blue block - LAB
+minHSV = np.array([72,94,97])
+maxHSV = np.array([126,188,212])
+
+# Trail Red block - LAB
+minHSV = np.array([151,107,147])
+maxHSV = np.array([255,255,255])
