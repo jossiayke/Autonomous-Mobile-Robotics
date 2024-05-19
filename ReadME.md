@@ -28,4 +28,4 @@ This Repository includes
 >> Video entailing entire Robotics class, full code in single pdf, and pptx presentation
 	-- Full Autonomous Robotics Course and Final Challenge Video:
 
-	[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7_YkX7pjsPA/0.jpg)](https://www.youtube.com/watch?v=7_YkX7pjsPA)
+	[![ENPM701 Spring 2024 Autonomous Robotics Grand Challenge Semester Video Submission](https://youtu.be/7_YkX7pjsPA?si=4JSfKYrw5_3mMGZz/0.jpg)](https://youtu.be/7_YkX7pjsPA?si=4JSfKYrw5_3mMGZz)
