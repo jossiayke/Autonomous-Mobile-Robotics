@@ -1,9 +1,3 @@
-By: Yoseph Ayele Kebede
-UID: 114196729
-ENPM701: SP 2024
-
-Grand Challenge Code and other data
-
 This Repository includes
 
 >> grand_challenge: the directory with all necessary code and documentation for mobile robot
@@ -28,4 +22,4 @@ This Repository includes
 >> Video entailing entire Robotics class, full code in single pdf, and pptx presentation
 	> Full Autonomous Robotics Course and Final Challenge Video:
 
-	[![ENPM701 Spring 2024 Autonomous Robotics Grand Challenge Semester Video Submission](https://img.youtube.com/vi/7_YkX7pjsPA/0.jpg)](https://www.youtube.com/watch?v=7_YkX7pjsPA)
+[![ENPM701 Spring 2024 Autonomous Robotics Grand Challenge Semester Video Submission](https://img.youtube.com/vi/7_YkX7pjsPA/0.jpg)](https://www.youtube.com/watch?v=7_YkX7pjsPA)
